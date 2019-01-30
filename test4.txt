@@ -1,0 +1,18 @@
+# Directed graph (each unordered pair of nodes is saved once): test3.txt
+# Nov 20, 2018
+# Nodes: 4 Edges: 14
+# FromNodeId	ToNodeId
+2 3
+2 4
+2 5
+3 2
+3 4
+3 5
+4 2
+4 3
+4 5
+5 2
+5 3
+5 4
+1 2
+5 6
